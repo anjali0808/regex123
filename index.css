@@ -1,0 +1,58 @@
+body{
+    background-color: aliceblue;
+    box-sizing: border-box;
+ 
+
+}
+  
+  
+
+  p{
+color: black;
+border: 15px solid brown;
+box-sizing: border-box;
+padding: 50px; 
+background-color: antiquewhite;
+  }
+
+  .second
+  :hover{
+    color: aqua;
+    font-size: 50px;
+  }
+  .first{
+    text-align: center;
+    color: plum;
+    border: 10px solid black;
+    border-radius: 50%;
+    height: 200px;
+    font-size: 100px;
+    margin-top: 50px;
+  }
+  .second{
+    text-align: center;
+    color: green;
+    border: 10px solid black;
+    border-radius: 50%;
+    height: 200px;
+    font-size: 100px;
+    margin-top: 50px; 
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.uUBmT-1TZKYRMwybILJRlAHaEK&pid=Api&P=0&w=297&h=167");
+  }
+  .header-container{
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+  }
+  .header{
+    height: 200px;
+    background-repeat: no-repeat;
+    text-align:center ;
+    justify-content: center; 
+    font-size: 30px;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.TUDe74-_OR6O3P4V-3_FYQHaE7&pid=Api&P=0&w=275&h=183");
+    background-position: center; 
+    background-size :cover;
+
+
+  }
